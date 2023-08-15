@@ -1,1 +1,0 @@
-# Rosyid-Ridho-mini-test
