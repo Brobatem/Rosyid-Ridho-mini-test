@@ -31,7 +31,7 @@ const FooBarList = generateFooBarList();
 document.getElementById("FooBar").textContent = FooBarList;
 
 // script untuk nomer 2
-const apiKey = "c21ef7a3714b63e0442639188a1ee144";
+const apiKey = "6e1624ef3d9c654731d04df9912a4736";
 
 async function fetchWeatherData() {
   const apiUrl = `https://api.openweathermap.org/data/2.5/forecast?q=Jakarta,id&units=metric&cnt=40&appid=${apiKey}`;
